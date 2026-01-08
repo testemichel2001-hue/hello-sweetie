@@ -2,7 +2,7 @@ import { MessageCircle } from "lucide-react";
 import jessyProfile from "@/assets/jessy-profile.jpeg";
 
 const Index = () => {
-  const whatsappLink = "https://wa.me/5511976595423?text=Ol%C3%A1%20meu%20bem%20Vim%20do%20telegram%20%F0%9F%98%8D%F0%9F%A4%A4";
+  const whatsappLink = "https://wa.me/5531976132963?text=Ol%C3%A1%20amor%2C%20tenho%20interesse%20nos%20conte%C3%BAdos";
 
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-background px-4 py-8">
